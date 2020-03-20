@@ -1,0 +1,66 @@
+
+body{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+#title{
+    width: 800px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+#breakers{
+    text-align: center;
+
+p#bio{
+    text-align: justify;
+    margin: 10px 22px 10px 22px;
+}
+
+p#stuff{
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+
+img{
+ float:left;
+}
+
+#info{
+    margin-top: 15px;
+      margin-bottom: 20px;
+}
+
+#infor{
+  margin-top: 10px;
+  margin-bottom: 50px;
+    text-align: justify;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+ul li { padding: 5px 0px; }
+
+
+a:link {
+    color: mediumpurple;
+}
+
+/* visited link */
+a:visited {
+    color: mediumpurple;
+}
+
+/* mouse over link */
+a:hover {
+    color: mediumpurple;
+}
+
+/* selected link */
+a:active {
+    color: mediumpurple;
+}
